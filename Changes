@@ -1,6 +1,7 @@
 Revision history for Mojo-Collection-Role-Transform
 
 {{$NEXT}}
+        - Fix typo bug that caused keys of three or more values to work incorrectly.
 
 0.01  2019-12-31 13:50:05 EST
         - Initial release

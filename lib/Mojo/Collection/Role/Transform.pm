@@ -76,7 +76,7 @@ sub _create_leading_key_hashes {
 
     my $cur_hash = $hash;
     for my $key (@$keys[0..$#$keys - 1]) {
-        $cur_hash = $hash->{$key} ||= {};
+        $cur_hash = $cur_hash->{$key} ||= {};
     }
 
     return $cur_hash;
