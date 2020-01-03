@@ -2,7 +2,7 @@ package Mojo::Collection::Role::Transform;
 use Mojo::Base -role;
 use Carp ();
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 requires 'reduce';
 
