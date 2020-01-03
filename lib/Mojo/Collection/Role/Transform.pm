@@ -537,15 +537,15 @@ it under the same terms as Perl itself.
 
 =item
 
-* L<Mojo::Collection>
+L<Mojo::Collection>
 
 =item
 
-* L<Mojo::Base/with_roles>
+L<Mojo::Base/with_roles>
 
 =item
 
-* L<Role::Tiny>
+L<Role::Tiny>
 
 =back
 

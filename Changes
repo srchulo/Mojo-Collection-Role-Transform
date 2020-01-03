@@ -1,6 +1,7 @@
 Revision history for Mojo-Collection-Role-Transform
 
 {{$NEXT}}
+        - Remove unnecessary *'s in SEE ALSO.
 
 0.03  2020-01-03 17:10:45 CST
         - Bump Mojolicious version to 7.41 when the with_roles method was added to Mojo::Collection.
