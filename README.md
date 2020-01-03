@@ -391,6 +391,6 @@ it under the same terms as Perl itself.
 
 # SEE ALSO
 
-- \* [Mojo::Collection](https://metacpan.org/pod/Mojo::Collection)
-- \* ["with\_roles" in Mojo::Base](https://metacpan.org/pod/Mojo::Base#with_roles)
-- \* [Role::Tiny](https://metacpan.org/pod/Role::Tiny)
+- [Mojo::Collection](https://metacpan.org/pod/Mojo::Collection)
+- ["with\_roles" in Mojo::Base](https://metacpan.org/pod/Mojo::Base#with_roles)
+- [Role::Tiny](https://metacpan.org/pod/Role::Tiny)
