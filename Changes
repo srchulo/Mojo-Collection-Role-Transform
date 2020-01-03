@@ -1,6 +1,7 @@
 Revision history for Mojo-Collection-Role-Transform
 
 {{$NEXT}}
+        - Bump Mojolicious version to 7.41 when the with_roles method was added to Mojo::Collection.
 
 0.02  2020-01-02 16:24:36 CST
         - Fix typo bug that caused keys of three or more values to work incorrectly.
